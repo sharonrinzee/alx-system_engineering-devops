@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -l _path="/a/"
+echo $(dirCount "$_path")
