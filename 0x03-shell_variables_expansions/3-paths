@@ -1,0 +1,2 @@
+#!/bin/bash
+declare -l _path="/a/"
